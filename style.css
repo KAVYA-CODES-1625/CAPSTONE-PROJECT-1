@@ -3,13 +3,15 @@ footer{
     margin-top: 40px;
 }
 h2{
-    background-color: #4F46E5;
+    background-color: royalblue;
     color: white;
     padding: 10px;
     border-radius:8px;
 }
 h1{
     text-align: center;
+    background-color:royalblue;
+    color:white;
 }
 img{
     width:100px;
@@ -18,5 +20,5 @@ img{
     box-shadow:5px5px 15px gray;
 }
 body{
-    background-color:#F8FAFC;
+    background-color: white;
 }
